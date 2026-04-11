@@ -48,5 +48,5 @@ Debes mantener la misma licencia en derivados
 Debes hacer público el código fuente de las modificaciones
 
 El software se proporciona sin garantías de ningún tipo
-Texto completo de la licencia disponible en:
+Texto completo de la licencia disponible en:https://www.gnu.org/licenses/gpl-3.0.html
 
