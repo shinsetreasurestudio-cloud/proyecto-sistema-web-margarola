@@ -3,7 +3,7 @@ proyecto de el sistema web de administracion y gestion de la residencia margarol
 # g̶o̶o̶d̶ f̶o̶r̶ h̶e̶a̶l̶t̶h̶,̶ b̶a̶d̶ f̶o̶r̶ e̶d̶u̶c̶a̶t̶i̶o̶n̶
 # if a god exist dont believe in that son 
 en este repositorio se encuentra respaldado el script y la pagina web para levantar el sistema de manera automatica desde cualquier lugar que cumpla los requisitos minimos de instalacion
-#requisitos
+# requisitos
 debian 13 o distro linux con servicios web o windows server con las herramientas de:
 mariadb 
 apache
@@ -13,7 +13,7 @@ para mas info ver el repositorio relacionado a la configuracion de el entorno de
 esto esta para garantizar que el proyecto sea 100% replicable sin importar el equipo
 
 
-#descargo de responsabilidad y usos de el proyecto
+# descargo de responsabilidad y usos de el proyecto
 Contribuciones Las contribuciones son bienvenidas. Para cambios importantes:
 
 Abre un issue primero para discutir lo que te gustaría cambiar
