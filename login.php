@@ -7,7 +7,7 @@ $db_host = getenv('MYSQL_HOST') ?: '127.0.0.1';
 $db_port = getenv('MYSQL_PORT') ?: '3306'; // Corrección de puerto
 $db_name = getenv('MYSQL_DATABASE') ?: 'residencia_DB';
 $db_user = getenv('MYSQL_USER') ?: 'root';
-$db_pass = getenv('MYSQL_PASSWORD') ?: 'h'; 
+$db_pass = getenv('MYSQL_PASSWORD') ?: ''; 
 $db_charset = 'utf8mb4';
 
 // Conexión
